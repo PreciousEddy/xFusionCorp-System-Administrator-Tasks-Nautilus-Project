@@ -3,7 +3,7 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 
 ## Table of Contents
 
-1. [Task 1: Create a Linux User with non-interactive shell](#task-1-configuring-user-accounts)
+1. [Task 1: Create a Linux User with non-interactive shell](#https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%201/Create%20a%20Linux%20User%20with%20non-interactive%20shell.md#create-a-linux-user-with-non-interactive-shell)
 2. [Task 2: Setting Up Network Services](#task-2-setting-up-network-services)
 3. [Task 3: Managing System Security](#task-3-managing-system-security)
 4. [Task 4: Backup and Recovery](#task-4-backup-and-recovery)
