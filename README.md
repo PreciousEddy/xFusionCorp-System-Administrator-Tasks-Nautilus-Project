@@ -3,8 +3,8 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 
 ## Table of Contents
 
-1. [Task 1: Create a Linux User with non-interactive shell](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/tree/main#task-1-create-a-linux-user-with-non-interactive-shell)
-2. [Task 2: Automating Backup Process - xFusionCorp Industries](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%202/Automating%20Backup%20Process%20-%20xFusionCorp%20Industries.md#automating-backup-process---xfusioncorp-industries)
+1. [Task 1: Create a Linux User with non-interactive shell](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%201/Create%20a%20Linux%20User%20with%20non-interactive%20shell.md#create-a-linux-user-with-non-interactive-shell)
+2. [Task 2: Automating Backup Process - xFusionCorp Industries](hhttps://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%202/Automating%20Backup%20Process%20-%20xFusionCorp%20Industries.md#automating-backup-process---xfusioncorp-industries)
 3. [Task 3: Managing System Security](#task-3-managing-system-security)
 4. [Task 4: Backup and Recovery](#task-4-backup-and-recovery)
 5. [Task 5: Performance Optimization](#task-5-performance-optimization)
@@ -15,9 +15,9 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 
 Description: This task involves creating and managing user accounts on various systems and platforms within the xFusionCorp network. The non-interactive shell is commonly used for service accounts or accounts that do not require direct shell access..
 
-## Task 2: Setting Up Network Services
+## Task 2: Automating Backup Process - xFusionCorp Industries
 
-Description: As a system administrator, you were responsible for configuring and maintaining various network services required by xFusionCorp. This includes DNS, DHCP, FTP, HTTP, and other essential network services.
+Description: As a system administrator, this task is responsible for automating the backup process that was previously performed manually by the xFusionCorp Industries system admins team. To automate this task, the team has developed a new bash script named xfusioncorp.sh. The script has been copied to all required servers, including App Server 1 in Stratos Datacenter.
 
 ## Task 3: Managing System Security
 
