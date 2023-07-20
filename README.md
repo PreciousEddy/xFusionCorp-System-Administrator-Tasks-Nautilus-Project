@@ -8,7 +8,7 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 
 1. [Task 1: Create a Linux User with non-interactive shell](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%201/Create%20a%20Linux%20User%20with%20non-interactive%20shell.md#create-a-linux-user-with-non-interactive-shell)
 2. [Task 2: Automating Backup Process - xFusionCorp Industries](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%202/Automating%20Backup%20Process%20-%20xFusionCorp%20Industries.md#automating-backup-process---xfusioncorp-industries)
-3. [Task 3: Linux TimeZone Settings](#task-3-managing-system-security)
+3. [Task 3: Linux TimeZone Settings](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%203/Linux%20TimeZone%20Settings.md#linux-timezone-settings--xfusioncorps-industries)
 4. [Task 4: Backup and Recovery](#task-4-backup-and-recovery)
 5. [Task 5: Performance Optimization](#task-5-performance-optimization)
 6. [Task 6: Troubleshooting and Issue Resolution](#task-6-troubleshooting-and-issue-resolution)
