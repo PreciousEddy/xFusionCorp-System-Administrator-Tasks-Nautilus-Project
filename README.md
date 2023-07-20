@@ -8,7 +8,7 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 
 1. [Task 1: Create a Linux User with non-interactive shell](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%201/Create%20a%20Linux%20User%20with%20non-interactive%20shell.md#create-a-linux-user-with-non-interactive-shell)
 2. [Task 2: Automating Backup Process - xFusionCorp Industries](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%202/Automating%20Backup%20Process%20-%20xFusionCorp%20Industries.md#automating-backup-process---xfusioncorp-industries)
-3. [Task 3: Managing System Security](#task-3-managing-system-security)
+3. [Task 3: Linux TimeZone Settings](#task-3-managing-system-security)
 4. [Task 4: Backup and Recovery](#task-4-backup-and-recovery)
 5. [Task 5: Performance Optimization](#task-5-performance-optimization)
 6. [Task 6: Troubleshooting and Issue Resolution](#task-6-troubleshooting-and-issue-resolution)
@@ -22,9 +22,9 @@ Description: This task involves creating and managing user accounts on various s
 
 Description: As a system administrator, this task is responsible for automating the backup process that was previously performed manually by the xFusionCorp Industries system admins team. To automate this task, the team has developed a new bash script named xfusioncorp.sh. The script has been copied to all required servers, including App Server 1 in Stratos Datacenter.
 
-## Task 3: Managing System Security
+## Task 3: Linux TimeZone Settings
 
-Description: Ensuring the security of xFusionCorp's systems was a critical part of your responsibilities. This task involved implementing security measures, managing firewalls, monitoring for security breaches, and staying up-to-date with security patches and updates.
+Description: During the daily standup, it was pointed out that the timezone across <Nautilus Application Servers> in <Stratos Datacenter> doesn't match with that of the local datacenter's timezone which is Australia/Lord_Howe. This task involved Changing the Application Servers Timezone to the Local Datacenter timezone.
 
 ## Task 4: Backup and Recovery
 
