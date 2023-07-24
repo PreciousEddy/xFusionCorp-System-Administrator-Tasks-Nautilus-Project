@@ -1,4 +1,4 @@
-# create a group named ```nautilus_developers``` in all App servers in Stratos Datacenter and add the user ```rajesh ``` to the group
+# Create a group named ```nautilus_developers``` in all App servers in Stratos Datacenter and add the user ```rajesh ``` to the group
 
 ---
 There are specific access levels for users defined by the xFusionCorp Industries system admin team. Rather than providing access levels to every individual user, the team has decided to create groups with required access levels and add users to that groups as needed. See the following requirements:

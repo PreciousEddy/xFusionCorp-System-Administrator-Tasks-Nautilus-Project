@@ -10,8 +10,8 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 2. [Task 2: Automating Backup Process - xFusionCorp Industries](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%202/Automating%20Backup%20Process%20-%20xFusionCorp%20Industries.md#automating-backup-process---xfusioncorp-industries)
 3. [Task 3: Linux TimeZone Settings](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%203/Linux%20TimeZone%20Settings.md#linux-timezone-settings--xfusioncorps-industries)
 4. [Task 4: Create a Cron Job Linux Server](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%204/Create%20a%20Cron%20Job%20Linux%20Server.md#create-a-cron-job-linux-server---xfusion-corps)
-5. [Task 5: Performance Optimization](#task-5-performance-optimization)
-6. [Task 6: Troubleshooting and Issue Resolution](#task-6-troubleshooting-and-issue-resolution)
+5. [Task 5: Create a custom Apache User named jim on the App server 3 in Stratos Datacenter](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%205/Create%20a%20custom%20Apache%20User%20named%20jim%20on%20the%20App%20server%203%20in%20Stratos%20Datacenter.md#create-a-custom-apache-user-named-jim-on-the-app-server-3-in-stratos-datacenter)
+6. [Task 6: Create a group named ```nautilus_developers``` in all App servers](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%206/create%20a%20group%20named%20nautilus_developers%20in%20all%20App%20servers%20in%20Stratos%20Datacenter%20and%20add%20the%20user%20rajesh%20to%20the%20group.md#create-a-group-named-nautilus_developers-in-all-app-servers-in-stratos-datacenter-and-add-the-user-rajesh--to-the-group)
 7. [Task 7: Documentation and Reporting](#task-7-documentation-and-reporting)
 
 ## Task 1: Create a Linux User with non-interactive shell
@@ -34,9 +34,9 @@ Description: The Nautilus system admins team has prepared scripts to automate se
 
 Description: For security reasons the xFusionCorp Industries security team has decided to use custom Apache users for each web application hosted, rather than its default user.
 
-## Task 6: Troubleshooting and Issue Resolution
+## Task 6: Create a group named ```nautilus_developers``` in all App servers
 
-Description: In this task, you were responsible for identifying and resolving various technical issues and incidents. This included diagnosing system failures, application errors, network connectivity problems, and other IT-related challenges.
+Description: There are specific access levels for users defined by the xFusionCorp Industries system admin team. Rather than providing access levels to every individual user, the team has decided to create groups with required access levels and add users to that groups as needed.
 
 ## Task 7: Documentation and Reporting
 
