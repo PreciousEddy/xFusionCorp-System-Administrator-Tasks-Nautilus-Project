@@ -30,9 +30,9 @@ Description: During the daily standup, it was pointed out that the timezone acro
 
 Description: The Nautilus system admins team has prepared scripts to automate several day-to-day tasks. They want them to be deployed on all app servers in Stratos DC on a set schedule. Before that they need to test similar functionality with a sample cron job.
 
-## Task 5: Performance Optimization
+## Task 5: Create a custom Apache User named jim on the App server 3 in Stratos Datacenter
 
-Description: As a system administrator, you were responsible for monitoring and optimizing the performance of xFusionCorp's systems. This task involved identifying performance bottlenecks, optimizing system resources, and ensuring smooth operation.
+Description: For security reasons the xFusionCorp Industries security team has decided to use custom Apache users for each web application hosted, rather than its default user.
 
 ## Task 6: Troubleshooting and Issue Resolution
 
