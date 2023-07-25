@@ -12,7 +12,7 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 4. [Task 4: Create a Cron Job Linux Server](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%204/Create%20a%20Cron%20Job%20Linux%20Server.md#create-a-cron-job-linux-server---xfusion-corps)
 5. [Task 5: Create a custom Apache User named jim on the App server 3 in Stratos Datacenter](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%205/Create%20a%20custom%20Apache%20User%20named%20jim%20on%20the%20App%20server%203%20in%20Stratos%20Datacenter.md#create-a-custom-apache-user-named-jim-on-the-app-server-3-in-stratos-datacenter)
 6. [Task 6: Create a group named ```nautilus_developers``` in all App servers](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%206/create%20a%20group%20named%20nautilus_developers%20in%20all%20App%20servers%20in%20Stratos%20Datacenter%20and%20add%20the%20user%20rajesh%20to%20the%20group.md#create-a-group-named-nautilus_developers-in-all-app-servers-in-stratos-datacenter-and-add-the-user-rajesh--to-the-group)
-7. [Task 7: Documentation and Reporting](#task-7-documentation-and-reporting)
+7. [Task 7: Linux Add A User Without a Home Directory](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%207/Linux%20Add%20A%20User%20Without%20a%20Home%20Directory.md#linux-add-a-user-without-a-home-directory)
 
 ## Task 1: Create a Linux User with non-interactive shell
 
@@ -38,9 +38,10 @@ Description: For security reasons the xFusionCorp Industries security team has d
 
 Description: There are specific access levels for users defined by the xFusionCorp Industries system admin team. Rather than providing access levels to every individual user, the team has decided to create groups with required access levels and add users to that groups as needed.
 
-## Task 7: Documentation and Reporting
+## Task 7: Linux Add A User Without a Home Directory
 
-Description: Proper documentation was crucial for the smooth functioning of xFusionCorp's IT infrastructure. As part of this task, you were expected to maintain detailed documentation of system configurations, changes, incident reports, and other relevant information.
+Description: The system admins team of xFusionCorp Industries has set up a new tool on all app servers, as they have a requirement to create a service user account that will be used by that tool.
+
 
 ---
 *Note: This is a README created for the purpose of the tasks done. The tasks and responsibilities mentioned here are tasks assigned to me on the Job and were performed by the user [Precious Edmund](https://github.com/PreciousEddy). The Nautilus Project is a project from the [Kodekloud](engineer.kodekloud.com), and xFusionCorp is a subsidary company.*
