@@ -13,6 +13,7 @@ Welcome to the Nautilus Project System Administrator Tasks directory for xFusion
 5. [Task 5: Create a custom Apache User named jim on the App server 3 in Stratos Datacenter](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%205/Create%20a%20custom%20Apache%20User%20named%20jim%20on%20the%20App%20server%203%20in%20Stratos%20Datacenter.md#create-a-custom-apache-user-named-jim-on-the-app-server-3-in-stratos-datacenter)
 6. [Task 6: Create a group named ```nautilus_developers``` in all App servers](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%206/create%20a%20group%20named%20nautilus_developers%20in%20all%20App%20servers%20in%20Stratos%20Datacenter%20and%20add%20the%20user%20rajesh%20to%20the%20group.md#create-a-group-named-nautilus_developers-in-all-app-servers-in-stratos-datacenter-and-add-the-user-rajesh--to-the-group)
 7. [Task 7: Linux Add A User Without a Home Directory](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%207/Linux%20Add%20A%20User%20Without%20a%20Home%20Directory.md#linux-add-a-user-without-a-home-directory)
+8. [Task 8: Linux Archives](https://github.com/PreciousEddy/xFusionCorp-System-Administrator-Tasks-Nautilus-Project/blob/main/Task%208/Linux%20Archives.md#linux-archives)
 
 ## Task 1: Create a Linux User with non-interactive shell
 
@@ -42,6 +43,9 @@ Description: There are specific access levels for users defined by the xFusionCo
 
 Description: The system admins team of xFusionCorp Industries has set up a new tool on all app servers, as they have a requirement to create a service user account that will be used by that tool.
 
+## Task 8: Linux Archives
+
+Description: On  Our Nautilus storage server in Stratos DC, there is a storage location named `/data,` which is used by different developers to keep their data (non confidential data). One of the developers named `rose` has raised a ticket and asked for a copy of their data present in `/data/rose` directory on storage server. `/home` is a FTP location on storage server itself where developers can download their data.
 
 ---
 *Note: This is a README created for the purpose of the tasks done. The tasks and responsibilities mentioned here are tasks assigned to me on the Job and were performed by the user [Precious Edmund](https://github.com/PreciousEddy). The Nautilus Project is a project from the [Kodekloud](engineer.kodekloud.com), and xFusionCorp is a subsidary company.*
